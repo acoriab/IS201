@@ -1,0 +1,59 @@
+
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    color: navy;
+}
+
+p{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.resumeheader{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+li{
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+footer{
+    background-color: darkolivegreen;
+    color: white;
+}
+
+.foot{
+    background-color: navy;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    color: white;
+}
+footer a {
+    color: white;
+    text-decoration: underline;
+    display: inline;
+    text-align: center;
+  }
+
+
+.header{
+    text-align: center;
+    background-color: navy;
+    padding-top: 50px;
+    padding-bottom:50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.mainbody p{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+}
+
+.tableauPlaceholder{
+    align-items: center;
+}
