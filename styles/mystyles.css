@@ -1,7 +1,11 @@
 
+h1{
+font-family: Georgia, 'Times New Roman', Times, serif;
+color: aliceblue;
+}
+
 h2{
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
     color: navy;
 }
 
@@ -16,44 +20,28 @@ p{
     font-weight: bold;
 }
 
-li{
-    margin-left: 150px;
-    margin-right: 150px;
-}
 
 footer{
     background-color: darkolivegreen;
     color: white;
 }
 
-.foot{
-    background-color: navy;
-    padding-top: 3rem;
-    padding-bottom: 3rem;
-    color: white;
-}
-footer a {
-    color: white;
-    text-decoration: underline;
-    display: inline;
-    text-align: center;
+a:visited {
+    background-color: transparent;
+    text-decoration:none
   }
 
-
-.header{
+iframe{
     text-align: center;
-    background-color: navy;
-    padding-top: 50px;
-    padding-bottom:50px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-
-.mainbody p{
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: large;
+body{
+    align-content: center;
 }
 
-.tableauPlaceholder{
-    align-items: center;
-}
+.personalimg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }

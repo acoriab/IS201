@@ -1,0 +1,39 @@
+.foot{
+    background-color: navy;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    color: white;
+}
+footer a {
+    color: white;
+    text-decoration: underline;
+    display: inline;
+    text-align: center;
+  }
+
+  
+.mainbody p{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+}
+
+.tableauPlaceholder{
+    align-items: center;
+}
+
+a:visited {
+    background-color: transparent;
+    text-decoration:none
+  }
+
+.header{
+    text-align: center;
+    background-color:blanchedalmond;
+    padding-top: 50px;
+    padding-bottom:50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.mainbody p{
+    text-align: center;
+}
